@@ -1,1 +1,1 @@
-# Eliot
+# Eliot - making Iot practical
